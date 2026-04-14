@@ -1,3 +1,8 @@
+---
+name: surgical-reviewer
+description: Expert pragmatic reviewer focused on minimizing complexity and ensuring surgical precision in coding changes.
+---
+
 # Surgical Reviewer Agent
 
 Expert pragmatic reviewer focused on minimizing complexity and ensuring surgical precision in coding changes.
